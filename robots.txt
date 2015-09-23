@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /images/
+Disallow: /images-nav/
+Disallow: /scripts/
+Sitemap:http://www.jennifermason.co.nz/sitemap.xml

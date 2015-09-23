@@ -1,0 +1,189 @@
+.homepage
+{	
+  background: url(/images/softs.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.homepage ul
+{
+  background-color: transparent;
+}
+
+.headerlink
+{
+  font-size: 26px;
+  font-weight: bold;
+  text-decoration:none;
+  margin-left: 25px;
+}
+
+a:hover
+{
+  text-decoration:none;
+  color:#000
+}
+
+html, body
+{
+  font-family:'HCMedium', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+  margin:0px;
+  background-color: transparent;
+}
+
+ul
+{
+  margin-top: 10px;
+}
+
+ul a
+{
+HEIGHT: 41px;
+font-family:'HCMedium', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+font-size: 20px;
+font-weight: bold;
+text-decoration:none;
+}
+
+ul a:hover
+{
+color: #111111;
+text-decoration:none;
+}
+h1
+{
+margin:0;
+}
+img
+{
+border-style:solid;
+border-width:0px;
+margin-bottom: 20px;
+}
+
+.works
+{
+margin-top:15px
+}
+
+.works li
+{
+display:block;
+margin-bottom:16px;
+list-style-type:none;
+}
+
+.works a
+{
+text-decoration: none;
+color: black;
+font-weight: bold;
+font-size: 14px;
+}
+
+.deets li
+{
+display:block;
+margin-bottom:16px;
+list-style-type:none;
+font-size: 14px;
+font-weight: bold;
+}
+
+p
+{
+margin-left:16px;
+margin-right:25px;
+margin-bottom: 2px;
+margin-top: 2px;
+font-size: 14px;
+}
+
+.break
+{
+padding-bottom:10px;
+}
+.bold
+{
+font-weight: bold;
+}
+.boldbreak
+{
+font-weight: bold;
+padding-bottom:10px;
+}
+
+.publications
+{
+margin-top:15px
+}
+
+.publications li
+{
+display:block;
+margin-bottom:16px;
+list-style-type:none;
+}
+
+.publications a
+{
+text-decoration: none;
+color: black;
+font-weight: bold;
+font-size: 14px;
+}
+
+.image1
+{
+margin-left:25px;
+}
+
+
+
+
+
+a		
+{
+text-decoration:none;
+color:black;
+font-weight:bold;
+font-size:14px;
+}
+.header
+{
+height: 30px;
+margin-top:25px;
+}
+
+p.break
+{
+padding-bottom:10px;
+}
+p.bold
+{
+font-weight: bold;
+}
+p.boldbreak
+{
+font-weight: bold;
+padding-bottom:10px;
+}
+
+ul
+{
+-webkit-padding-start:0px;
+margin-left:25px;
+padding-left:0px;
+}
+ul li
+{
+display:inline;
+margin-right:10px;
+}
+@media (max-width: 768px) {
+  ul li{
+  display:block;
+  }
+}
